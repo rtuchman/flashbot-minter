@@ -1,0 +1,21 @@
+{
+  "name": "new_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.4.3",
+    "axios": "^0.21.1",
+    "big-number": "^2.0.0",
+    "chalk": "^4.1.2",
+    "ethers": "^5.4.4",
+    "keccak256": "^1.0.3"
+  }
+}
